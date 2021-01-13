@@ -2,7 +2,7 @@
 
 # Are we there yet? Faster Pediatric Care With Machine Learning Directives
 
-The following repository contains the original python files and software code used in the development of machine learning medical directives project 
+The following repository contains the original python files and software code used in the development of machine learning medical directives 
   
   1. Preprocess.py
     - Outlines the initial preprocessing steps used to generate labels and prepare EHR data for model training and testing
