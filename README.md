@@ -1,6 +1,6 @@
 #README File 
 
-# Are we there yet? Faster Pediatric Care With Machine Learning Directives
+# Faster Pediatric Care With Machine Learning Directives
 
 The following repository contains the original python files and software code used in the development of machine learning medical directives 
   
